@@ -1,0 +1,32 @@
+body {
+    font-family:"Arial", "Verdana", "sans";
+    font-size:80%;
+}
+body > div {
+    /*only one in this sample */
+    width: 600px;
+}
+table {
+    margin: 5px auto;
+    border-collapse: collapse;
+    border: 1px solid;
+    border-bottom: 2px solid #6baa01;
+}
+th {
+    background-color: #008ee4;
+    color: #ffffff;
+}
+th, td {
+    border: 1px solid #6baa01;
+    padding: 10px 5px;
+    min-width: 70px;
+    text-align: center;
+}
+
+#tableCont {
+    width: 100%;
+}
+
+#tableCont table{
+    width: 96%;
+}

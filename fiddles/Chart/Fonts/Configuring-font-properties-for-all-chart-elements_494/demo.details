@@ -1,0 +1,8 @@
+---
+name: Configuring Charts - Configuring font cosmetics for all elements placed 
+description: Customizing Outside Canvas Base Font Group of a chart
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

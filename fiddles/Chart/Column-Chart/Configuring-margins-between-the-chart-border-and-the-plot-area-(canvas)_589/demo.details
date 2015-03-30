@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Configuring margins between the chart border and the plot area (canvas) 
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

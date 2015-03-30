@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/sp63z/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Axes/Configuring-font-properties-for-x-axis-and-y-axis-title-in-charts_441/

@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Showing individual Quartile deviation in Box And Whisker Chart
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.powercharts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

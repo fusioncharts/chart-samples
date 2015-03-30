@@ -1,0 +1,32 @@
+ body {
+     color: #666666;
+     font-family:"Arial", "Helvetica";
+     font-size: 12px;
+ }
+ .grayBorder {
+     border: 1px solid #CCCCCC;
+     margin: 3px;
+     float: left;
+ }
+ .fontBold {
+     font-weight: bold;
+     font-size: 14px;
+     vertical-align: top;
+     text-align:right;
+ }
+ .fontBoldSmall {
+     font-weight: bold;
+     font-size: 12px;
+     background-color: #EEEEEE;
+     text-align:center;
+ }
+ .valueFont {
+     padding: 3px;
+ }
+ #tableView {
+     width:500px;
+     display:none;
+     margin-left:0px;
+     max-height: 250px;
+     overflow:scroll;
+ }

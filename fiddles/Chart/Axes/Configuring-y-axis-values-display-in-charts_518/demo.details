@@ -1,0 +1,8 @@
+---
+name: Configuring Charts -  Hiding y-axis values in JavaScript charts
+description: Hiding y-axis values  in a chart 
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

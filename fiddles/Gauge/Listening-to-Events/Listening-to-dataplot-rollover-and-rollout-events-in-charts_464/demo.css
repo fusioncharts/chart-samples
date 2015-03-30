@@ -1,0 +1,25 @@
+#content > div {     
+    float:left;
+    font-family:'Helvetica Neue', Arial;
+    font-size: 14px;
+}
+.textStyle {
+    text-align:center;
+    font-weight: bold;
+}
+#details {
+    width:500px;    
+    height:100px;
+    border: 2px solid #ddd;    
+    text-align:center;
+}
+#header {
+    height:25px;
+    padding-top:5px;
+    border-bottom: 1px solid #ddd;
+}
+#data {
+    font-size: 30px;
+    padding-top:10px;
+    color: #008ee4;
+}

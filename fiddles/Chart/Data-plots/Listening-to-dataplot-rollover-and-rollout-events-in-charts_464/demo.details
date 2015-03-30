@@ -1,0 +1,7 @@
+---
+name: FusionCharts - Listening to dataplotRollOver and dataplotRollOut events to render additional info outside the chart
+description:  Using data plot rollover/rollout events
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

@@ -1,0 +1,8 @@
+#nameDiv{
+    font-size: 14px;
+    border-bottom: 1px dashed #666666;
+    font-weight:bold;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+}

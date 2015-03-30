@@ -1,0 +1,40 @@
+<!-- 
+DragLine chart from PowerCharts suite. 
+
+The chart shows the quarterly sales trend for two specific brands. Forthcoming quarterly sales are estimated values and are draggable. Whenever the values are updated (dragged up or down), the corresponding value in the table gets updated. This is done through the 'dataplotdragend' event.
+
+Chart:
+    1. DragArea
+Events:
+    1. dataPlotDragEned
+    2. dataRestored
+-->
+<div>
+    <div id="chart-container">FusionCharts will render here</div>
+    <div id="tableCont">
+        <table>
+            <tr>
+                <td></td>
+                <th>Q1</th>
+                <th>Q2</th>
+                <th>Q3(E)</th>
+                <th>Q4(E)</th>
+            </tr>
+            <tr>
+                <td class='row-header'>Apple</td>
+                <td id='1-1'>1200</td>
+                <td id='1-2'>1500</td>
+                <td id='1-3'>1300</td>
+                <td id='1-4'>900</td>
+            </tr>
+            <tr>
+                <td class='row-header'>Samsung</td>
+                <td id='2-1'>600</td>
+                <td id='2-2'>850</td>
+                <td id='2-3'>1000</td>
+                <td id='2-4'>1200</td>
+            </tr>
+        </table>
+        <p align = "center"/> (E) indicates Estimated
+    </div>
+</div>

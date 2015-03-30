@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Gallery Example - Horizontal Bullet 
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.widgets.js
+...

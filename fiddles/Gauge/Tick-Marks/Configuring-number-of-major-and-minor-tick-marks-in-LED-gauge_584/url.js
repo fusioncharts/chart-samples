@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/76hSp/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Tick-Marks/Configuring-number-of-major-and-minor-tick-marks-in-LED-gauge_584/

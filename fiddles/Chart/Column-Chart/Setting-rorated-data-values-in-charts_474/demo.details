@@ -1,0 +1,8 @@
+---
+name: Configuring Charts - Setting data values to rotate while displaying in JavaScript charts
+description: 
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

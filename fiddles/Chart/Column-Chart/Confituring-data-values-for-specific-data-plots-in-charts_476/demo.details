@@ -1,0 +1,9 @@
+---
+name: Configuring Charts - Confituring data values for specific data plots to display in JavaScript charts
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

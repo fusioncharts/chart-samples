@@ -1,0 +1,8 @@
+---
+name: Configuring Charts -  Manually defining y-axis limits and number of divisional lines
+description: Using Div lines in Line chart
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

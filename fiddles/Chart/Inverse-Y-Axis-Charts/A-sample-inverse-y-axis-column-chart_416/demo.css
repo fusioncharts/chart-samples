@@ -1,0 +1,17 @@
+body{
+    font-family: 'Helvetica Neue', Arial;
+    font-size: 14px;
+    font-weight: normal;
+}
+input[type=text] {
+    max-width: 50px;
+}
+#controllers {
+    position: inherit;
+    width: 500px;
+    padding: 0 5px;
+}
+
+#controllers label{
+    padding: 0 5px;
+}

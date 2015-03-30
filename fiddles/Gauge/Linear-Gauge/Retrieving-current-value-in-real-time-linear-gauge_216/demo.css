@@ -1,0 +1,22 @@
+.grayBorder {
+    margin: 3px;
+    float: left;
+}
+.valueFont{
+    padding: 3px;
+    
+}
+
+#getdata_btn{
+   margin-left:5px;
+    margin-top:5px;
+}
+
+#tableView {
+    overflow-y:auto;
+    display:none;
+}
+.fontBold {
+    font-weight: bold;
+    font-size: 14px;
+}

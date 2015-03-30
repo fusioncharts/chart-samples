@@ -1,0 +1,9 @@
+---
+name: FusionCharts - Global population map by continent - Using icon legend with fixed data range
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.maps.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+  - http://static.fusioncharts.com/code/latest/maps/fusioncharts.world.js
+...

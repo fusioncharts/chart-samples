@@ -1,0 +1,8 @@
+---
+name: Angular Gauge - Configuring base and top width of the dial
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.widgets.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

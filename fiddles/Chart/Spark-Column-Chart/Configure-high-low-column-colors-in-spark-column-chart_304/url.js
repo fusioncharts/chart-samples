@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/TQ6pv/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Spark-Column-Chart/Configure-high-low-column-colors-in-spark-column-chart_304/

@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/KHJhG/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Horizontal-Linear-Gauge/Configuring-hover-effects-for-pointer-of-horizontal-linear-gauge_462/

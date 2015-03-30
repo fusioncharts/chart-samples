@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/HWLpJ/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Bullet-Chart/Customizing-color-properties-in-horizontal-bullet-chart_320/

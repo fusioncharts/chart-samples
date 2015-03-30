@@ -1,0 +1,8 @@
+#indicatorDiv{
+    color: #1790e1; 
+    width: 480px; 
+    font-family: 'Arial','Helvatica'; 
+    font-size: 12px; 
+    padding: 10px; 
+    display: none;
+}

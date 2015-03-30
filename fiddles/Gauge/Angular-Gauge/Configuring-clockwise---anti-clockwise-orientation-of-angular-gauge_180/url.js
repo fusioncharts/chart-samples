@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/E8tVn/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Angular-Gauge/Configuring-clockwise---anti-clockwise-orientation-of-angular-gauge_180/

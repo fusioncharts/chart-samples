@@ -1,0 +1,10 @@
+input[type=text] {
+    max-width: 50px;
+}
+body > div {
+    position: absolute;
+}
+#controllers {
+    position: inherit;
+    right: 0;
+}

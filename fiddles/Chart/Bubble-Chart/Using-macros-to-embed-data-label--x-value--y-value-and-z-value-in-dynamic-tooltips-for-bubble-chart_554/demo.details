@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Using macros to embed data label, x-value, y-value and z-value in dynamic tooltips for bubble chart
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.powercharts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

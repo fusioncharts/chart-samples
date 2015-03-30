@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/L17eLvs3/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Heat-Map-Chart/Customizing-pre-defined-rows-and-columns-in-heatmap-chart_364/

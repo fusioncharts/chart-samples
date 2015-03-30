@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/CwkH9/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Padding-&-Margins/Configuring-margins-between-the-chart-border-and-the-plot-area-(canvas)_589/

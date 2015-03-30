@@ -1,0 +1,11 @@
+body
+{
+    margin: 10;
+    padding: 10;
+    font-family: 'Helvetica Neue', Arial;
+}
+h2{
+    font-size: 18px;
+    font-weight: strong;
+    padding-left: 20px;
+}

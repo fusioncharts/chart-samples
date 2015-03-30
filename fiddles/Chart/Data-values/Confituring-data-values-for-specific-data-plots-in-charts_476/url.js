@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/U9C59/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Data-values/Confituring-data-values-for-specific-data-plots-in-charts_476/

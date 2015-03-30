@@ -1,0 +1,9 @@
+---
+name: FusionCharts - Switching themes at runtime
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.carbon.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.ocean.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.zune.js
+...

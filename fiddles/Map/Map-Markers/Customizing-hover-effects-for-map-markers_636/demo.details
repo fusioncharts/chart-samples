@@ -1,0 +1,9 @@
+---
+name: FusionCharts - Hover effects on marker in Map
+description: Created using FusionCharts Suite XT - www.fusioncharts.com
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.maps.js
+  - http://static.fusioncharts.com/code/latest/maps/fusioncharts.usa.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

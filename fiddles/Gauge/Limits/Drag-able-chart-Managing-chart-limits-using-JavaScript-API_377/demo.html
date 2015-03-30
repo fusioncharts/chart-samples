@@ -1,0 +1,26 @@
+<!-- Drag-able chart - Managing chart limits using JavaScript API. After rendering, the sample, retrieves the upper and lower limit of the chart and set those values in the two input fields. After updating these input fields, you can click the associated buttons to change upper and lower limits. Afetr each update an alert message notifies the user whether the update was successful.
+
+Methods: 
+    # setUpperLimit
+    # setLowerLimit
+    # getUpperLimit
+    # getLowerLimit
+-->
+<div>
+    <div id="chart-container">FusionCharts will render here</div>
+    <div id="controllers">
+        <p>Reset values to update limits.<p>
+         <div>   
+            <span>            
+                <input type="text" id="max-limit" />
+                <input type="button" id="max-btn" class='btn' value="Set Max Value"/>
+            </span>
+        </div>
+        <div>
+            <span>            
+                <input type="text" id="min-limit" />
+                <input type="button" id="min-btn" class='btn' value="Set Min Value"/>
+            </span>
+        </div>    
+    </div>
+</div>

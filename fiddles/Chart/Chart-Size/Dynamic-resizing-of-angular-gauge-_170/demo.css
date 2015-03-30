@@ -1,0 +1,27 @@
+input[type=text] {
+    max-width: 50px;
+    font-family: Verdana, sans;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+#chart-container {
+    border: 1px solid #999999;
+    width: 450px;
+    height: 300px;
+    margin: 10px 10px;
+}
+#controllers {
+    position: inherit;
+    left: 10px;
+    font-family: Verdana, sans;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.resizebtn {
+    font-family: Verdana, sans;
+    font-size: 14px;
+    font-style: normal;
+}

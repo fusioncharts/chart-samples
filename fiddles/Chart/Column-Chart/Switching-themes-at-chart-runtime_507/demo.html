@@ -1,0 +1,16 @@
+<!-- 
+This sample showcases how to switch theme of a particular chart at runtime. It dynamically updates the theme name for the JSON data and updates chart through FusionCharts API.
+
+Attribute:
+    theme: name of the theme to apply.
+Methods used:
+    setJSONData: This method set JSON data to FusionCharts instance.    
+-->
+<div id="chart-container">FusionCharts will render here</div>
+
+<div id='controllers'>
+    <label><input type="radio" name="theme-options" id='fint-chckbx' value="zune"> Zune</label>
+    <label><input type="radio" name="theme-options" value="ocean"> Ocean</label>
+    <label><input type="radio" name="theme-options" value="carbon"> Carbon</label>     
+    <label><input type="button" value="Apply Theme" id="set-theme"></label>
+</div>

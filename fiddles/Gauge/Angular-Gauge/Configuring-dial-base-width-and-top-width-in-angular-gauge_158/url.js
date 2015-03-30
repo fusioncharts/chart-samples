@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/E2rz2/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Angular-Gauge/Configuring-dial-base-width-and-top-width-in-angular-gauge_158/

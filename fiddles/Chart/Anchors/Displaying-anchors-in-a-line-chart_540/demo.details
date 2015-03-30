@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Displaying anchors in a line chart.
+description: Showing Anchors in chart.
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

@@ -1,0 +1,8 @@
+---
+name: Configuring Charts - Configuration of Vertical Alternate Grid Bands in a chart
+description: Vertical Grid Bands in Line chart
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...

@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/s7XmK/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Real-time-Gauges/Retrieving-updated-data-through-API-in-real-time-cylinder_263/

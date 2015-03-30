@@ -1,0 +1,33 @@
+<!-- ShowCased DragColumn chart from PowerCharts suite. 
+The chart shows a comparison between 'Avialable stock' and 'Estomated Stock' of different food items. The estimated columns are draggable and whenever the value is updated (dragged up or down), the corresponding value in the table gets updated. This is done through the 'dataplotdragend' event. Also when we click the 'restore' button all original values are restored. This is achieved through 'dataRestored' event.
+
+Chart:
+    1. DragColumn 2D
+Events:
+    1. dataPlotDragEned
+    2. dataRestored
+-->
+<div>
+    <div id="chart-container">FusionCharts will render here</div>
+    <div id="tableCont">
+        <table id='dragcolumn2d-sample-table'>
+            <tr>
+                <td></td>
+                <th>Poultry</th>
+                <th>Rice</th>
+                <th>Peanut Butter</th>
+                <th>Salmon</th>
+                <th>Cereal</th>
+            </tr>
+            <tr>
+                <td>Estimated Demand</td>
+                <td>19000</td>
+                <td>16500</td>
+                <td>14300</td>
+                <td>10000</td>
+                <td>9800</td>
+            </tr>
+        </table>
+    </div>
+</div>
+    

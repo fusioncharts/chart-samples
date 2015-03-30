@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/Au3LY/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Dual-Y-Axis-Charts/A-sample-3D-stacked-column-+-Line-chart-with-dual-y-axes_38/

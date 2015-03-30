@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/pj4koo6s/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Chart/Dual-Y-Axis/Adding-trendlines-for-combination-chart-with-dual-y-axes_119/

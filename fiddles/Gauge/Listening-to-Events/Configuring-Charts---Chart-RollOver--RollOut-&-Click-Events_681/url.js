@@ -1,0 +1,2 @@
+http://jsfiddle.net/fusioncharts/d3X7x/
+http://jsfiddle.net/gh/get/jquery/1.9.1/sguha-work/fiddletest/tree/master/fiddles/Gauge/Listening-to-Events/Configuring-Charts---Chart-RollOver--RollOut-&-Click-Events_681/

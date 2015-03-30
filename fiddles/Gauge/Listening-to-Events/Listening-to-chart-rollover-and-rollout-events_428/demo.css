@@ -1,0 +1,11 @@
+#indicatorDiv{
+    color: #1790e1; 
+    width: 480px; 
+    font-family: 'Arial','Helvatica'; 
+    font-size: 12px; 
+    padding: 2px; 
+    border:#0372AB 1px solid;
+    text-align:center;
+    font-weight:bold;
+    display: none;
+}

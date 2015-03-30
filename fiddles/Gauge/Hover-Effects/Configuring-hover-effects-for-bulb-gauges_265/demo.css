@@ -1,0 +1,14 @@
+#headerdiv {
+    font-family:"Arial", "Helvetica";
+    font-size: 13px;
+    font-weight: bold;
+}
+#valueDiv {
+    color: #EEEEEE;
+    text-align:center;
+    font-size: 25px;
+    padding: 10px;
+    margin-top:5px;
+    font-family:"Arial", "Helvetica";
+    font-weight: bold;
+}

@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #00406A;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.chartCont {
+    padding: 0px 12px;
+}
+.border-bottom {
+    border-bottom: 1px dashed rgba(0, 117, 194, 0.2);
+}
+.border-right {
+    border-right: 1px dashed rgba(0, 117, 194, 0.2);
+}
+#container {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+#container> div {
+    width: 100%;
+    background-color: #ffffff;
+}
+#logoContainer {
+    float: left;
+}
+#logoContainer img {
+    padding: 0 10px;
+}
+#logoContainer div {
+    position: absolute;
+    top: 8px;
+    left: 95px;
+}
+#logoContainer div h2 {
+    color: #0075c2;
+}
+#logoContainer div h4 {
+    color: #0e948c;
+}
+#logoContainer div p {
+    color: #719146;
+    font-size: 12px;
+    padding: 5px 0;
+}
+
+#userDetail {
+    float: right;
+}
+#userDetail img {
+    position: absolute;
+    top: 16px;
+    right: 130px;
+}
+#userDetail div {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #0075c2;
+}
+#userDetail div p {
+    margin: 0;
+}
+#userDetail div p:nth-child(2) {
+    color: #0e948c;
+}
+#header div:nth-child(3) {
+    clear: both;
+    border-bottom: 1px solid #0075c2;
+}
+#content div {
+    display: inline-block;
+}
+#content > div {
+    margin: 0px 20px;
+}
+#content > div:nth-child(1) > div {
+    margin: 20px 0 0;
+}
+#content > div:nth-child(2) > div {
+    margin: 0 0 20px;
+}
+#footer p {
+    margin: 0;
+    font-size: 9pt;
+    color: black;
+    padding: 5px 0;
+    text-align: center;
+}

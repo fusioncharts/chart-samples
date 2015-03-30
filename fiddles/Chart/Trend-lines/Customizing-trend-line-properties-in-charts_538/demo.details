@@ -1,0 +1,8 @@
+---
+name: FusionCharts - Customizing Trend Line cosmetics in chart
+description: 
+resources: 
+  - http://static.fusioncharts.com/code/latest/fusioncharts.js
+  - http://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+  - http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js
+...
